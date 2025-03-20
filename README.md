@@ -50,3 +50,9 @@ Ensure the API endpoint is correctly configured in the project to fetch video da
 
 # Vercel Project link
 https://web-dev-cohort-oz2bgswb7-vikky94s-projects.vercel.app/
+
+
+![alt text](image-1.png)
+![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
